@@ -1,3 +1,4 @@
+```
 .global _start     
 
 
@@ -14,3 +15,4 @@ _start: addi  a0, x0, 1
 
 .data
 welcome:      .ascii "Pfriedrix"
+```
