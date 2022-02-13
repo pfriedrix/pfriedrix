@@ -14,5 +14,5 @@ _start: addi  a0, x0, 1
         ecall              
 
 .data
-welcome:      .ascii "Pfriedrix"
+welcome:      .ascii "pfriedrix"
 ```
